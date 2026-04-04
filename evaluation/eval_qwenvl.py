@@ -22,8 +22,7 @@ DATA_ROOTS = {
     'm2cai16':    '',
     'mvp57':      '',
     'autolaparo': '',
-    'cataract':   '',
-    'case':       ''
+    'cataract':   ''
 }
 
 # Number of frames to sample per video
