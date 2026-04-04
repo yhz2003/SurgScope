@@ -26,8 +26,7 @@ DATA_ROOTS = {
     'm2cai16':    '',
     'mvp57':      '',
     'autolaparo': '',
-    'cataract':   '',
-    'case':       ''
+    'cataract':   ''
 }
 
 # VRAM optimization: Uniformly sampled frame count for full video
