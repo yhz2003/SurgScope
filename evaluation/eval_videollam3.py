@@ -27,8 +27,7 @@ DATA_ROOTS = {
     'm2cai16':    '',
     'mvp57':      '',
     'autolaparo': '',
-    'cataract':   '',
-    'case':       ''
+    'cataract':   ''
 }
 
 # Strict alignment with baseline video sampling parameters
