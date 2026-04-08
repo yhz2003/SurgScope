@@ -29,7 +29,7 @@ Since the main paper has already reported the instrument-query evaluation result
 
 
 
-As shown in Table 1, Starting from the original VTimeLLM checkpoint, fine-tuning already brings clear improvements over the zero-shot setting. More importantly, replacing conventional random sampling with Redundancy-guided Dynamic Sampling (RDS) further improves performance, with mIoU increasing from 8.21 to 8.47, R1@0.3 from 6.75 to 8.44, and R1@0.5 from 2.53 to 2.95. This indicates that RDS can provide more informative training clips even without additional phase-aware initialization.
+As shown in Table 1, Starting from the original VTimeLLM checkpoint, fine-tuning already brings clear improvements over the zero-shot setting. More importantly, replacing conventional random sampling with Redundancy-guided Dynamic Sampling (RDS) further improves performance, with mIoU increasing from 8.21 to 8.47, `R1@0.3` from 6.75 to 8.44, and `R1@0.5` from 2.53 to 2.95. This indicates that RDS can provide more informative training clips even without additional phase-aware initialization.
 
 
 
