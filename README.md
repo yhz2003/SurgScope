@@ -55,9 +55,9 @@ Overall, RDS is more effective than conventional sampling strategies for VTimeLL
 
 | Model                                             |      mIoU |   `R1@0.3` |   `R1@0.5` |   `R1@0.7` |
 | ------------------------------------------------- | --------: | -------: | -------: | -------: |
-| VTimeLLM (Zero-shot)                              |     8.04 |     6.96 |     1.90 |     1.05 |
+| VTimeLLM (Zero-shot)                              |     8.04 |     6.96 |     1.90 |   **1.05** |
 | VTimeLLM (Phase FT weights + FT, Uniform sampling) |      9.98 |     7.81 |     1.27 |     0.42 |
-| **VTimeLLM (Phase FT weights + FT, RDS)**         | **10.12** | **8.65** | **2.32** | **0.42** |
+| **VTimeLLM (Phase FT weights + FT, RDS)**         | **10.12** | **8.65** | **2.32** | 0.42 |
 
 
 
@@ -70,8 +70,8 @@ As shown in Table 4, we evaluates transfer from phase localization to instrument
 | Model                                         | mIoU      | `R1@0.3`    | `R1@0.5`   | `R1@0.7`   |
 | --------------------------------------------- | --------- | --------- | -------- | -------- |
 | TimeChat (Zero-shot)                          | 2.70      | 3.77      | 1.42     | 0.00     |
-| TimeChat (Phase FT weights, Random sampling) | 10.09     | 9.70      | 4.01     | 1.05     |
-| **TimeChat (Phase FT weights, RDS)**          | **10.35** | **10.13** | **2.74** | **0.63** |
+| TimeChat (Phase FT weights, Random sampling) | 10.09     | 9.70      | **4.01**     | **1.05**     |
+| **TimeChat (Phase FT weights, RDS)**          | **10.35** | **10.13** | 2.74 | 0.63 |
 | VTimeLLM (Zero-shot)                              |     8.04 |     6.96 |     1.90 | **1.05** |
 | VTimeLLM (Phase FT weights, Uniform sampling) |      9.93 |     7.17 |     1.27 |     0.42 |
 | **VTimeLLM (Phase FT weights, RDS)**              |  **9.97** | **8.02** | **2.32** |     0.21 |
