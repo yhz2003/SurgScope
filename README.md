@@ -46,7 +46,7 @@ Overall, RDS is more effective than conventional sampling strategies for VTimeLL
 | Model                                              |     mIoU |   `R1@0.3` |   `R1@0.5` |   `R1@0.7` |
 | -------------------------------------------------- | -------: | -------: | -------: | -------: |
 | VTimeLLM (Zero-shot)                               |     8.04 |     6.96 |     1.90 |     1.05 |
-| VTimeLLM (VTimeLLM weights + FT, Uniform sampling) |     8.21 |     6.75 |     2.53 |     1.48 |
+| VTimeLLM (VTimeLLM weights + FT, Uniform sampling) |     8.21 |     6.75 |     2.53 |     **1.48** |
 | **VTimeLLM (VTimeLLM weights + FT, RDS)**          | **8.47** | **8.44** | **2.95** | **1.48** |
 
 
