@@ -2,7 +2,7 @@
 
 **Anonymous Author(s)**
 
-![ceb5a792934cdceda0d66278a2f66f34](C:\Users\Shallow\xwechat_files\wxid_19fx63sji5nl22_99f6\temp\RWTemp\2026-04\ceb5a792934cdceda0d66278a2f66f34.png)
+![ceb5a792934cdceda0d66278a2f66f34](img/intro.png)
 
 ## Abstract
 
@@ -19,7 +19,7 @@ Efficiently locating clinically relevant moments in long surgical videos is esse
 
 **Figure 1: Illustration of phase annotation timelines for selected laparoscopic hysterectomy cases.**
 
-![15a988a6c64c83bf67cd984fbedd411e](C:\Users\Shallow\xwechat_files\wxid_19fx63sji5nl22_99f6\temp\RWTemp\2026-04\15a988a6c64c83bf67cd984fbedd411e.png)
+![15a988a6c64c83bf67cd984fbedd411e](img/gantt.png)
 
 ## Appendix
 
