@@ -1,6 +1,20 @@
 # SurgScope: A Multi-Type Surgical Benchmark with Prior Knowledge for Long Video Moment Retrieval
 
-**Anonymous Author(s)**
+## Authors
+
+**Wanjing Zhou<sup>1</sup>**, **Haozhe Yang<sup>1</sup>**, **Mengze Li<sup>2,*</sup>**, **Yuqi Fang<sup>1</sup>**, and **Wei Ji<sup>3,*</sup>**
+
+<sup>1</sup> Nanjing University, Suzhou, Jiangsu, China <sup>2</sup> Hangzhou Dianzi University, Hangzhou, Zhejiang, China <sup>3</sup> State Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, Jiangsu, China
+
+<sup>*</sup> Corresponding authors.
+
+**Contact:**
+Wanjing Zhou: [wanjingzhou@smail.nju.edu.cn](mailto:wanjingzhou@smail.nju.edu.cn)
+Haozhe Yang: [yhz@smail.nju.edu.cn](mailto:yhz@smail.nju.edu.cn)
+Mengze Li: [mengzeli@zju.edu.cn](mailto:mengzeli@zju.edu.cn)
+Yuqi Fang: [yqfang@nju.edu.cn](mailto:yqfang@nju.edu.cn)
+Wei Ji: [weiji@nju.edu.cn](mailto:weiji@nju.edu.cn)
+
 
 ![ceb5a792934cdceda0d66278a2f66f34](img/intro.png)
 
